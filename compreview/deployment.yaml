@@ -5,6 +5,7 @@ metadata:
   name: hello-app
   labels:
     app: hello-app
+    fuck: it
     name: hello-app
   namespace: compreview-install
 spec:
